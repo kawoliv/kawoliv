@@ -24,7 +24,7 @@
 kawan = {
     "nome":       "Kawan Oliveira",
     "localidade": "Salvador, Bahia 🇧🇷",
-    "formacao":   "Ciências da Computação — UNIFACS (6º semestre)",
+    "formacao":   "Ciências da Computação — UNIFACS (8º semestre)",
     "foco":       ["Frontend", "Full Stack", "UI/UX"],
     "buscando":   "Estágio como Dev Frontend ou Junior Full Stack",
     "status":     "Aberto para oportunidades 🟢",
