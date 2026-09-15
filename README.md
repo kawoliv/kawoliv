@@ -1,177 +1,198 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Kawan%20Oliveira&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20%C2%B7%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(UNIFACS)&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Kawan Oliveira" />
+</p>
 
-<!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2a2a2a&height=200&section=header&text=Kawan%20Oliveira&fontSize=52&fontColor=f5f5f0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%40%20UNIFACS&descAlignY=58&descSize=16&descColor=888888" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Django+%C2%B7+Flask;React+%C2%B7+Next.js+%C2%B7+TypeScript;Dados+com+Pandas+e+Streamlit;Aberto+a+est%C3%A1gio+e+vagas+j%C3%BAnior" alt="Typing SVG" />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- TYPING ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construindo+interfaces+que+importam.;Do+c%C3%B3digo+%C3%A0+experi%C3%AAncia+do+usu%C3%A1rio.;Sempre+aprendendo%2C+sempre+evoluindo.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://kawan-portifolio.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/kawan-oliveira-49b1a3246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Salvador%20·%20BA-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Salvador, BA" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-16a34a?style=for-the-badge" alt="Open to work" />
+</p>
 
 ---
 
-## `$ whoami`
+## 👋 Sobre mim
 
-```python
-kawan = {
-    "nome":       "Kawan Oliveira",
-    "localidade": "Salvador, Bahia 🇧🇷",
-    "formacao":   "Ciências da Computação — UNIFACS (8º semestre)",
-    "foco":       ["Frontend", "Full Stack", "UI/UX"],
-    "buscando":   "Estágio como Dev Frontend ou Junior Full Stack",
-    "status":     "Aberto para oportunidades 🟢",
-}
-```
+Estudante do 8º semestre de **Ciência da Computação na UNIFACS** e desenvolvedor com foco em **Python** no back-end e **React/Next.js** no front-end. Fui **instrutor de programação na Infinity School**, onde ensinei lógica e desenvolvimento web — experiência que me ensinou a escrever código que outras pessoas conseguem ler e manter.
 
-<br/>
+Gosto de construir coisas que resolvem problemas reais: meu projeto mais completo é um sistema de caixa usado no balcão de uma lanchonete.
+
+- 🎯 Buscando **estágio** ou vaga de **desenvolvedor júnior**
+- 🌱 Estudando a fundo **Next.js (App Router)** e **Django**
+- 🗣️ Português nativo · Inglês avançado · Espanhol básico
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologias
 
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Dados
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Julia](https://img.shields.io/badge/Julia-0a0a0a?style=for-the-badge&logo=julia&logoColor=9558B2)
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
 <table>
-<tr>
-<td width="50%">
-
-### 🖤 [Portfólio Pessoal](https://github.com/kawoliv/kawan---portifolio)
-Design editorial brutalista, paleta monocromática, cursor customizado e animações CSS puras. Um site que comunica identidade antes mesmo de ler o conteúdo.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### 🤖 [Logística com IA](https://github.com/kawoliv/a3-markov)
-Sistema de otimização de rotas com reinforcement learning. Aplica conceitos de Cadeias de Markov para simular evolução de estados em ambiente real.
-
-`Python` `Streamlit` `Gymnasium`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 [Sistema de Segurança](https://github.com/kawoliv/kawan---portifolio)
-Protótipo de autenticação com JWT, criptografia de senhas via Werkzeug e gestão de sessões com Flask. Segurança aplicada desde o início.
-
-`Python` `Flask` `PyJWT`
-
-</td>
-<td width="50%">
-
-### 🌿 [GreenBoxing](https://github.com/kawoliv/greenboxing)
-Landing page criada como projeto acadêmico para família de apps. Prototipado no Figma, desenvolvido com HTML/CSS semântico e responsivo.
-
-`HTML` `CSS` `Figma`
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="140"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,js,ts,php&perline=8" alt="Linguagens" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=django,flask,sqlite&perline=8" alt="Back-end" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" alt="Front-end" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&perline=8" alt="Ferramentas" /></td>
+  </tr>
 </table>
-</div>
-
-<br/>
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Projeto em destaque
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawoliv&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f5f5f0&text_color=aaaaaa&icon_color=888888&border_color=2a2a2a&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawoliv&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f5f5f0&text_color=aaaaaa&border_color=2a2a2a&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawoliv&theme=dark&background=0a0a0a&ring=888888&fire=f5f5f0&currStreakLabel=f5f5f0&sideLabels=aaaaaa&currStreakNum=f5f5f0&sideNums=f5f5f0&dates=555555&border=2a2a2a" />
-
-</div>
-
-<br/>
-
----
-
-## 🎯 O que eu busco
-
-> Estou procurando minha **primeira oportunidade profissional** como desenvolvedor. Trago comprometimento, capacidade de aprendizado rápido e vontade real de contribuir com produtos que impactem pessoas.
-
-<div align="center">
-
-| ✅ O que ofereço | 🎯 O que busco |
-|---|---|
-| Código limpo e organizado | Estágio Frontend ou Full Stack |
-| Adaptação e aprendizado rápido | Mentoria e crescimento técnico |
-| Projetos do conceito ao deploy | Ambiente colaborativo |
-| Criatividade na resolução de problemas | Produtos com propósito real |
-
-</div>
-
-<br/>
+<table>
+  <tr>
+    <td>
+      <h3>🧾 Sistema de Caixa — Lanchonete</h3>
+      <p>
+        PDV (frente de caixa) feito para rodar no computador do balcão, <b>sem servidor, sem internet e sem instalar banco de dados</b>.
+        Registra cada venda com itens, horário, vendedor e forma de pagamento, controla abertura e fechamento de caixa
+        com conferência da gaveta e gera automaticamente uma <b>planilha Excel</b> no fim do dia.
+      </p>
+      <ul>
+        <li>Venda rápida por teclado (<code>Enter</code> adiciona, <code>F2</code> finaliza) e pagamento dividido</li>
+        <li><b>Modo Gerente</b> com login: só gerentes alteram cardápio e preços</li>
+        <li>Histórico dos dias fechados, com testes automatizados e dados de exemplo</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Tkinter" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square" alt="openpyxl" />
+      </p>
+      <a href="https://github.com/kawoliv/comanda.lanchonet"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🚀 Mais projetos
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 MatchMovie</h3>
+      <p>Buscador de filmes com a API da TMDB. Server e Client Components, busca com <i>debounce</i>, scroll infinito, <i>skeletons</i> de carregamento e <i>error boundaries</i>. A chave da API fica só no servidor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <a href="https://github.com/kawoliv/match.movie"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦇 Wayne Security System</h3>
+      <p>Plataforma de segurança corporativa com <b>autenticação JWT</b>, controle de acesso por funções (administrador, segurança etc.), proteção de rotas e dashboard administrativo. API em Flask e front-end em JavaScript puro.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" alt="REST API" />
+      </p>
+      <a href="https://github.com/kawoliv/prototipo-sistema-de-seguranca"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍰 Maison Rosé</h3>
+      <p>Site de encomendas de confeitaria artesanal: cardápio por categorias, carrinho, checkout e confirmação. O total do pedido é <b>recalculado no servidor</b>, sem confiar no valor enviado pelo navegador.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+      </p>
+      <a href="https://github.com/kawoliv/ConfeitaFacs"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+      <a href="https://confeita-facs.vercel.app"><img src="https://img.shields.io/badge/Deploy-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Deploy" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Dashboard ETL — Saúde</h3>
+      <p>Pipeline <b>ETL</b> (extração, transformação e carga) sobre indicadores de mortalidade infantil por estado brasileiro, com cálculo de taxas e dashboard interativo com filtros. Projeto de Análise de Dados e Big Data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+      </p>
+      <a href="https://github.com/kawoliv/AV3--ANALISE-DE-DADOS-E-BIG-DATA"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Gestão de Estoque</h3>
+      <p>CRUD completo de produtos com categorias, persistência em banco de dados e gráficos interativos para acompanhar quantidades e valores em estoque.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+      </p>
+      <a href="https://github.com/kawoliv/sistema-de-gerenciamento-de-estoque-CRUD-"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Taskly</h3>
+      <p>App de tarefas com filtros por status e persistência no navegador via <code>localStorage</code>, construído com componentes tipados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <a href="https://github.com/kawoliv/taskly"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github" alt="Código" /></a>
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawan_Oliveira-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kawan-oliveira-49b1a3246)
-[![GitHub](https://img.shields.io/badge/GitHub-kawoliv-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawoliv)
-[![Portfolio](https://img.shields.io/badge/Portfólio-kawoliv.github.io-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kawoliv.github.io/kawan---portifolio)
-[![Email](https://img.shields.io/badge/Email-kawanxd@hotmail.com-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:kawanxd@hotmail.com)
+<details>
+  <summary><b>🗂️ Outros repositórios</b></summary>
+  <br />
 
-</div>
+| Projeto | Stack | Links |
+| --- | --- | --- |
+| **Vértice** — landing page de escritório de arquitetura | HTML · CSS · JS | [Código](https://github.com/kawoliv/projeto-inicial-v-rtice.co) · [Deploy](https://projeto-inicial-vertice-co.vercel.app) |
+| **To-do List** — app de tarefas | Django | [Código](https://github.com/kawoliv/to-do-list-django) |
+| **Landing page advocacia** — protótipo | HTML · CSS · JS | [Código](https://github.com/kawoliv/advogado-landing-page-prototipo) |
+| **GreenBoxing** — landing page acadêmica (prototipada no Figma) | HTML · CSS | [Código](https://github.com/kawoliv/greenboxing) · [Deploy](https://green-boxing.vercel.app) |
+| **Portfólio pessoal** | HTML · CSS · JS | [Código](https://github.com/kawoliv/kawan---portifolio) · [Site](https://kawan-portifolio.vercel.app) |
+| **A3 Markov** — simulação de pragas em lavoura com Cadeias de Markov (colaboração) | Julia | [Código](https://github.com/kawoliv/a3-markov) |
 
-<br/>
+</details>
 
 ---
 
-<div align="center">
+## 📫 Vamos conversar?
 
-<!-- VISITOR COUNTER -->
-![Visitors](https://komarev.com/ghpvc/?username=kawoliv&color=888888&style=flat-square&label=Visitantes+no+perfil)
+Estou aberto a oportunidades de **estágio**, vagas **júnior** e colaborações. Me chama por aqui:
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:0a0a0a&height=100&section=footer" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kawan-oliveira-49b1a3246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kawan-portifolio.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="footer" />
+</p>
